@@ -8,3 +8,4 @@
 @version: 1.0
 @desc  : 
 """
+print("I am sun")
